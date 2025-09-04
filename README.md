@@ -1,6 +1,3 @@
-# JC_12_Revisao_e_aplicacoes
-Aula de revisão de conceitos de aprendizado de máquina e aprendizado profundo com discussão de aplicações na oncologia.
-
 ## <h1 align="center"> #12 Journal Club LiiaOnco: Revisão de conceitos de machine learning e aplicações na oncologia </h1>
 
 Este repositório contém uma aula revisando os principais conceitos de machine learning e deep learning, além de discutir as principais aplicações na oncologia.
